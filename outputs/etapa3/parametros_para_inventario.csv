@@ -1,0 +1,6 @@
+﻿Parámetro,Valor,Tipo
+Modelo seleccionado,"ARIMA(0,0,0)+c (ruido blanco)",Decisión
+Demanda diaria pronosticada,61.9101,Calculado
+σ residual del modelo (in-sample),22.2619,Calculado
+σ error de pronóstico (RMSE rolling h=1),22.3752,Calculado
+σ demanda histórica (referencia),22.3879,Calculado
